@@ -1,16 +1,15 @@
-## Hi there 👋
+## vindas ao meu perfil ❤️‍🔥
 
-<!--
-**Heitor1608/Heitor1608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Heitor Soares
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento do meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### voçê entrar em contato comigo 📫
+
+- heitorsoaressilva1234@gmail.com
+- @heitorsoares
+
+![](![image](https://github.com/Heitor1608/Heitor1608/assets/172272063/6ef22aad-6126-4351-80c9-323625cc40e3)
+
